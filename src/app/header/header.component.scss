@@ -1,0 +1,18 @@
+header {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  height: 5.5rem;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+header > h1 {
+  margin-left: 0.5em;
+}
+
+.logo {
+  height: 5rem;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  margin-left: 0.25em;
+}
